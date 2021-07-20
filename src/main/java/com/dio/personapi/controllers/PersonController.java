@@ -1,4 +1,4 @@
-package com.dio.personapi.controller;
+package com.dio.personapi.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
